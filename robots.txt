@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Public/
+Disallow: /ZhouLiu/
+Disallow: /Install/
+Disallow: /Core/
